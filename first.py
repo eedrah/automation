@@ -1,3 +1,4 @@
+#!/usr/bin/env pipenv run python
 import pprint
 import pyautogui
 
